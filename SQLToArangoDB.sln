@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLToArangoDB", "SQLToArangoDB\SQLToArangoDB.csproj", "{AE4D000C-D345-4F0D-89DF-2E409F0DBAA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLToArangoDBDemo", "SQLToArangoDBDemo\SQLToArangoDBDemo.csproj", "{033622B4-3DD0-4610-87F7-D6BF5882CA95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE4D000C-D345-4F0D-89DF-2E409F0DBAA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE4D000C-D345-4F0D-89DF-2E409F0DBAA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE4D000C-D345-4F0D-89DF-2E409F0DBAA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE4D000C-D345-4F0D-89DF-2E409F0DBAA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{033622B4-3DD0-4610-87F7-D6BF5882CA95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033622B4-3DD0-4610-87F7-D6BF5882CA95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033622B4-3DD0-4610-87F7-D6BF5882CA95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033622B4-3DD0-4610-87F7-D6BF5882CA95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52DBE607-FEEC-404D-9DD5-34E35A66E332}
+	EndGlobalSection
+EndGlobal
