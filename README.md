@@ -3,7 +3,7 @@ A class library used to migrate SQL Server graph database into ArangoDB.
 
 # Published Articles
 
-- Migrating SQL Server graph database to ArangoDB (Under review)
+- [Migrating SQL Server graph database to ArangoDB](https://www.sqlshack.com/migrating-sql-server-graph-databases-to-arangodb/)
 
 # Dependencies
 
